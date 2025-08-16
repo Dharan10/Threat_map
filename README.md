@@ -38,8 +38,9 @@ streamlit run app.py
 If no API keys are provided or APIs return no data, the app uses a diverse sample dataset with various attack types, countries, and severities for demonstration.
 
 ## Screenshots
-Add screenshots here if desired.
-
+![Threat Map Main View](Screenshots/img.png)
+![Country Distribution Chart](Screenshots/img2.png)
+![Attack Type Distribution Chart](Screenshots/img3.png)
 ## Notes
 - The app is for demonstration and educational purposes.
 - Geolocation is approximate and uses a free service.
